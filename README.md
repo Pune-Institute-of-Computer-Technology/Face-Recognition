@@ -10,5 +10,5 @@ college server.
 
 
 
-Here's a demonstration of the project - 
+• Here's a demonstration of the project - 
 ![Output](https://user-images.githubusercontent.com/87187713/206271734-986467d4-d842-42d0-bf42-3da27e3cc1cc.png)
