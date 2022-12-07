@@ -1,7 +1,8 @@
-# Face-Recognition
-Face Recognition Attendance System 
-• Designed a curriculum-based project that was a face recognition-based attendance system with high-level security. The research was primarily concerned with using cutting-edge visual recognition algorithms using OpenCV
+# Face-Recognition Attendance System 
+
+• Designed a curriculum-based project that was a face recognition-based attendance system with high-level security. The research was primarily concerned with using cutting-edge visual recognition algorithms using OpenCV
 to detect faces and identify and validate faces by mapping facial features.
+
 • To track student attendance at the college server, this face-recognition
 model based on DNN Classification, employed a webcam to recognize faces
 in real-time. The data was then recorded in a CSV file and updated at the
